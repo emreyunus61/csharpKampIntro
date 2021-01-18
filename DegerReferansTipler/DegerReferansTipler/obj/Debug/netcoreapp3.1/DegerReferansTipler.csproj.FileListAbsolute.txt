@@ -1,0 +1,13 @@
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.exe
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.deps.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.runtimeconfig.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.runtimeconfig.dev.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.dll
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\bin\Debug\netcoreapp3.1\DegerReferansTipler.pdb
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.AssemblyInfoInputs.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.AssemblyInfo.cs
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.dll
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.pdb
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\DegerReferansTipler\DegerReferansTipler\obj\Debug\netcoreapp3.1\DegerReferansTipler.genruntimeconfig.cache
