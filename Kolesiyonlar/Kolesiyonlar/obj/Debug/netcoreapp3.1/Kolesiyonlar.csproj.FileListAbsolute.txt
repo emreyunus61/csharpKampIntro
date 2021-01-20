@@ -1,0 +1,13 @@
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.exe
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.deps.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.runtimeconfig.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.runtimeconfig.dev.json
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.dll
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\bin\Debug\netcoreapp3.1\Kolesiyonlar.pdb
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.AssemblyInfoInputs.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.AssemblyInfo.cs
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.dll
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.pdb
+C:\Users\emrey\OneDrive\Desktop\C#KampIntro\Kolesiyonlar\Kolesiyonlar\obj\Debug\netcoreapp3.1\Kolesiyonlar.genruntimeconfig.cache
